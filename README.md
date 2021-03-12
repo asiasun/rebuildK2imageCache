@@ -1,4 +1,4 @@
-rebuild K2 image Cache
+Rebuild K2 image Cache
 ===================
 
 **Get the new Version by Joomlaworks: https://github.com/getk2/rebuildK2imageCache**
