@@ -7,6 +7,7 @@
  * 3) run it "php -f rebuild.php"  (it overwrites existing files without notice)
  *
  * @author Robert Deutz <rdeutz@googlemail.com>
+ *
  */
 
 // Variabels
