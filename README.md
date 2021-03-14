@@ -1,7 +1,7 @@
 Rebuild K2 image Cache
 ===================
 
-**Get the new Version by Joomlaworks: https://github.com/getk2/rebuildK2imageCache**
+Get the new Version by Joomlaworks: https://github.com/getk2/rebuildK2imageCache
 
 Rebuilds the image cache directory for the Joomla Component K2
 
